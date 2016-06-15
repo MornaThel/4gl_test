@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fglBuildTarget name="cdynlib2" xmlns="http://namespaces.querix.com/lyciaide/target" type="dynamic-c-library">
+
+  <sources type="c">
+    <file location="main2.c"/>
+  </sources>
+
+</fglBuildTarget>

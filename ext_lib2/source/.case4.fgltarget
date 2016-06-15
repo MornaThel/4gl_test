@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fglBuildTarget xmlns="http://namespaces.querix.com/lyciaide/target" name="case4" type="fgl-program">
+
+  <libraries>
+    <library name="cstatlib" dynamic="false" location=""/>
+  </libraries>
+
+  <sources type="fgl">
+    <file location="case4_main.4gl"/>
+  </sources>
+
+  <mediaFiles>
+    <file client="true" location="case4.qxtheme" type="gui-theme-file"/>
+  </mediaFiles>
+
+</fglBuildTarget>

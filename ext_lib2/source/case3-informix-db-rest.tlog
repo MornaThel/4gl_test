@@ -1,0 +1,23 @@
+<< case3.exe -d informix >>
+<< fixed ticket 14901 >>
+<< Started from client "127.0.0.1" >>
+
+<<<
+<?xml version="1.0" encoding="utf-8"?>
+<response><openwindow>SCREEN</openwindow><setfocus>SCREEN</setfocus><interact_getkey/></response>
+<<<
+
+>>>
+<?xml version="1.0" encoding="utf-8"?>
+<fglevent name="accept"/>
+>>>
+
+<<<
+<?xml version="1.0" encoding="utf-8"?>
+<response><displayat row="2" col="1" attr="">25</displayat><interact_getkey/></response>
+<<<
+
+>>>
+<?xml version="1.0" encoding="utf-8"?>
+<fglevent name="accept"/>
+>>>

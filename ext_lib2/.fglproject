@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fglProject name="ext_lib2">
+<data>
+<item id="com.querix.fgl.core.pathentries">
+<pathentry kind="src" path="source"/>
+<pathentry kind="out" path="output"/>
+</item>
+<item id="com.querix.fgl.core.buildtargets">
+<buildTarget location="" name="case2" type="fgl-program"/>
+<buildTarget location="" name="cdynamic_lib" type="dynamic-c-library"/>
+<buildTarget location="" name="case3" type="fgl-program"/>
+<buildTarget location="" name="cdynlib2" type="dynamic-c-library"/>
+<buildTarget location="" name="case4" type="fgl-program"/>
+<buildTarget location="" name="cstatlib" type="static-c-library"/>
+</item>
+</data>
+</fglProject>

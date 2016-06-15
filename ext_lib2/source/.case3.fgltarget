@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fglBuildTarget name="case3" xmlns="http://namespaces.querix.com/lyciaide/target" type="fgl-program">
+
+  <libraries>
+    <library dynamic="false" location="" name="cdynlib2"/>
+  </libraries>
+
+  <sources type="fgl">
+    <file location="main_case3.4gl"/>
+  </sources>
+
+  <mediaFiles>
+    <file client="true" location="case3-informix-db-rest.tlog" type="other"/>
+    <file client="true" location="case3.qxtheme" type="gui-theme-file"/>
+  </mediaFiles>
+
+</fglBuildTarget>

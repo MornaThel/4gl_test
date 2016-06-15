@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fglBuildTarget name="cdynamic_lib" xmlns="http://namespaces.querix.com/lyciaide/target" type="dynamic-c-library">
+
+  <sources type="c">
+    <file location="lib1sr.c"/>
+    <file location="lib1sr_impl.c"/>
+  </sources>
+
+</fglBuildTarget>
