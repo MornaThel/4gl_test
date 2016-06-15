@@ -15,5 +15,5 @@ main
   display out_i, out_system
   display "OK" at 2,2
   prompt "" for char c
-      
+      DISPLAY "test"
 end main
